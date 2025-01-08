@@ -7,5 +7,5 @@ main()
 	printf("enter the value of the side");
 	scanf("%f",&r);
 	area=2*pi*r*r;
-	printf("the area of square is %f",area);
+	printf("the area of circumference is %f",area);
 }
